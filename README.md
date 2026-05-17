@@ -5,7 +5,7 @@ A full-stack lead management dashboard built for the ServiceHive Full Stack Deve
 ## Live Demo
 
 Frontend:
-https://gigflow-dashboard-lovat.vercel.app/dashboard
+https://gigflow-dashboard-lovat.vercel.app/
 
 Backend:
 https://gigflow-dashboard-1.onrender.com

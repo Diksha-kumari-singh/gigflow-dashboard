@@ -82,4 +82,4 @@ gigflow-dashboard/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/gigflow-dashboard.git
+git clone https://github.com/Diksha-Kumari-singh/gigflow-dashboard.git
